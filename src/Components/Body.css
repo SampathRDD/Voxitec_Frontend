@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.box{
+    height: 250.68vh;
+    padding: 40px 60px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-align: center;
+}
+.section-1{
+    background-image: url('../images/background.jpg');
+    background-attachment:fixed ;
+    background-size:cover ;
+    
+    height:50vw;
+    
+}
+.section-2{
+    width:90%;
+    margin:auto;
+}
+
+.line-image{
+    
+    float:right;
+    position:relative ;
+    top:5.60vw;
+    right:5%;
+    height:36.42vw;
+    width:0.09vw;
+
+}
+.logo-image{
+    
+    float:left;
+    position:relative ;
+    top:0.8vw;
+    left:8vw;
+    width:11.49vw;
+    height:1.55vw;
+
+
+}
+.line-icon{
+    float:right;
+    position: absolute; 
+    width:2.73vw;
+}
+.profile{
+    position: absolute; 
+    top: 25vw;
+    left: 14vw;
+    width:50%;
+
+}
+
+.text-1{
+    text-align:left ;
+    font-size: 1.433vw;
+    font-family:Poppins ;
+    font-weight: 100;
+    line-height: 2.4vw;
+    word-spacing: 0.1vw;
+    
+  }
+  .text-2{
+    text-align:left ;
+    font-size: 2.4vw ;
+    font-family:monospace ;
+    font-weight: 700;
+
+  }
+  .btn{
+    width:10.74vw;
+    height:3.0vw;
+    color:white ;
+    background-color:rgba(0, 193, 255, 0.42); ;
+    border-radius: 0.65vw;
+    padding: auto;
+    float: left;
+    margin-left: 1vw;
+    font-family: Inter;
+    font-size: 1.17vw;
+
+  }
+  .btn2{
+    width:8.74vw;
+    height:3.0vw;
+    border:transparent;
+    color:white ;
+    background-color:#07BDF2;
+    border-radius: 1.5vw;
+    float: Right;
+    margin-left: 1vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 1.37vw;
+    font-weight: 900;
+
+  }
+  .btn3{
+    width:8.74vw;
+    height:3.0vw;
+    border:0vh;
+    color:white ;
+    background-color:transparent ;
+    border-radius: 1.5vw;
+    float: Right;
+    margin-left: 1vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 1.47vw;
+    font-weight: 700;
+    font-style:bold ;
+
+  }
+  .dot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(35, 19, 142);
+    border-radius: 50%;
+    display: inline-block;
+  }

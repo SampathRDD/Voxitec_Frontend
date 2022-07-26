@@ -1,0 +1,28 @@
+.slide{
+    border:1px solid rgb(103, 101, 101);
+    width:100%;
+    height: 10vw;
+    margin: auto;
+    border-radius: 1vw;
+}
+.slide-image{
+    width:25.7vw;
+    border-radius: 1vw 0 0 1vw ;
+    margin: 0.4vw;
+
+}
+.txt{
+    color:white;
+}
+.slider h3{
+    right:10vw;
+    top:10vw;
+    
+}
+.owl-pagination .owl-page span {
+    background-color: white;
+}
+.owl-pagination .owl-page .active span
+{
+    background-color: aqua;
+}
