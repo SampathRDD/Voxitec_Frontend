@@ -14,7 +14,7 @@ import linkedin from '../images/linkedin.svg';
 import facebook from '../images/facebook.svg';
 import profile from '../images/profile.png';
 import Down from '../images/down.gif';
-import Logo from '../images/logo.svg'
+/*import Logo from '../images/logo.svg'*/
 
 
 
@@ -25,7 +25,7 @@ function Body() {
         <div class="section-1 box">
             <Navbar/>
             <div>
-                <a href="#" ><img src={Logo} className='logo-image'/></a>
+                {/*<a href="#" ><img src={Logo} className='logo-image'/></a>*/)
                 <img src={line} className='line-image'/>
                 <a href="#" ><button className='btn2'>Let's Talk</button></a>
                 <a href="#" ><button className='btn3'>Projects</button></a>
