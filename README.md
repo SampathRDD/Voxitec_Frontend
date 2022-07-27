@@ -1,7 +1,6 @@
 # voxitec Project React Frontend Design
-MY Linkedin profile -<a href="https://www.linkedin.com/in/dhanushka-sampath-255582208/">LinkedIn Click here...</a>
 
-#<img src="https://github.com/RDDSampath/voxitec/blob/main/SS/screencapture-webhostingvoxitech-web-app-2022-07-26-14_54_51.png" height="1000vw"/>
+#<img src="https://github.com/RDDSampath/voxitec/blob/main/SS/screencapture-webhostingvoxitech-web-app-2022-07-26-14_54_51a.png" height="1000vw"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
