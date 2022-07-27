@@ -1,4 +1,4 @@
-# voxitec Project React Frontend Design
+# Project React Frontend Design
 
 #<img src="https://github.com/RDDSampath/voxitec/blob/main/SS/screencapture-webhostingvoxitech-web-app-2022-07-26-14_54_51a.png" height="1000vw"/>
 
